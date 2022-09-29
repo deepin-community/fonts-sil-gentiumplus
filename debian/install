@@ -1,0 +1,3 @@
+*.ttf        usr/share/fonts/truetype/gentiumplus
+web/*.woff   usr/share/fonts-sil-gentiumplus/woff/
+debian/bug/* usr/share/bug/fonts-sil-gentiumplus
